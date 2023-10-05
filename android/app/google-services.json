@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774887741154",
+    "project_id": "instag-clne",
+    "storage_bucket": "instag-clne.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774887741154:android:7335e0f76bf907d450b0bb",
+        "android_client_info": {
+          "package_name": "com.example.i_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWJ2iNZ_7pjVZT7XH4gbquhb6tG4_NOuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
